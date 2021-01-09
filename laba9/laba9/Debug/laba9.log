@@ -1,0 +1,5 @@
+﻿  laba9.cpp
+c:\users\алексей\source\repos\laba9\laba9\namespace_ex.h(37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba9\laba9\namespace_ex.h(41): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba9\laba9\namespace_ex.h(139): warning C4018: <: несоответствие типов со знаком и без знака
+  laba9.vcxproj -> C:\Users\Алексей\source\repos\laba9\Debug\laba9.exe
